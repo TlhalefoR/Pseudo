@@ -1,8 +1,0 @@
-Enter a positive number
-Store number into variable "value"
-
-	If number is less than zero
-		do not store number
-		
-	When number is equal to zero	
-		Print the largest stored variable
