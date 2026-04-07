@@ -1,0 +1,61 @@
+T1
+Enter a positive number
+Store number into variable "value"
+
+	If number is less than zero
+		do not store number
+		
+	When number is equal to zero	
+		Print the largest stored variable
+		
+		
+T2
+Enter first name
+Store variable as first_name
+
+Print first_name and "Hello, World"
+
+
+T3
+Create an empty list called average
+Enter a number 
+Enter 0 when done
+
+    While number is not equal 0
+        Add number to list called average
+
+	Set List_average to sum of averagee divided by length of average
+Print List_average
+
+
+T4
+Create an empty list called grocery
+Create an empty list called outstanding
+
+Print "Enter grocery items (type 'done' to finish):"
+
+While item is not equal to "done"
+	Add item to grocery
+
+For each item in grocery
+	If item is not marked as purchased
+		Add item to outstanding
+
+Sort outstanding in alphabetical order
+
+Print "Outstanding items in alphabetical order:"
+print outstanding
+
+
+T5
+Input a number 
+Store the number as variable X
+ 
+Enter another number 
+Store number as variable Y
+
+New variable S is equal to the sum of variable X and Y
+New variable A is equal to varible S divided by 2
+New variable P is equal to variable X multiplied by variable Y
+
+Print variables S, A, P
